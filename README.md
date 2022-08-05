@@ -1,4 +1,7 @@
-# react-form-v1
+# react-pure-form-validator
+![image](https://user-images.githubusercontent.com/50844224/183113868-72ae1d40-aaec-47c5-b7e4-c4bd75632fdc.png)
+
+
 Created a simple form with react hooks and included validation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
